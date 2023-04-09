@@ -23,6 +23,7 @@ yarn start
 - [Expo Router: Repo](https://github.com/expo/router)
 - [Request for Comments](https://github.com/expo/router/discussions/1)
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2023-04-09 at 20 38 00](https://user-images.githubusercontent.com/54918856/230793157-ca19ea57-5e93-4502-b103-4c89014f3749.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2023-04-09 at 20 38 10](https://user-images.githubusercontent.com/54918856/230793171-b4d8b576-5873-401f-a581-cad049611999.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2023-04-09 at 20 39 06](https://user-images.githubusercontent.com/54918856/230793180-7f94e11b-61d7-40ea-8ffa-0dd055007811.png)
+
+![Artboard 1 copy](https://user-images.githubusercontent.com/54918856/230794008-72e61868-d5dd-4b3d-a5cf-33c092c53265.jpg)
+![Artboard 1](https://user-images.githubusercontent.com/54918856/230794017-0aa1c7f1-ae70-4938-99c9-4f2adfc1ad91.jpg)
+
